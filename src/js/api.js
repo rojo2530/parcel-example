@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 const API_URL = 'https://swapi.co/api/films';
 
 const api = () => {
